@@ -53,3 +53,11 @@ The data is in a [spreadsheet](https://docs.google.com/spreadsheets/d/1mjGp94ehf
 23. [Databases and SQL](https://github.com/joelgrus/data-science-from-scratch/blob/master/code/databases.py)
 24. [MapReduce](https://github.com/joelgrus/data-science-from-scratch/blob/master/code/mapreduce.py)
 25. Go Forth And Do Data Science
+
+__HOW TO DO Exploratory Data Analysis__ 
+next : Write an article and sumarize
+
+1. https://datascienceguide.github.io/exploratory-data-analysis
+2. http://pythonplot.com/
+3. https://www.geeksforgeeks.org/exploratory-data-analysis-in-python/
+4. https://www.techrepublic.com/google-amp/article/learning-programming-languages-for-free-githubs-best-guides-for-python-developers/
